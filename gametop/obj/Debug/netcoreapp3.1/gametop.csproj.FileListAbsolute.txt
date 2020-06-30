@@ -1,0 +1,13 @@
+E:\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\gametop.exe
+E:\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\gametop.deps.json
+E:\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\gametop.runtimeconfig.json
+E:\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\gametop.runtimeconfig.dev.json
+E:\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\gametop.dll
+E:\ConsoleCore\gametop\bin\Debug\netcoreapp3.1\gametop.pdb
+E:\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\gametop.csprojAssemblyReference.cache
+E:\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\gametop.AssemblyInfoInputs.cache
+E:\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\gametop.AssemblyInfo.cs
+E:\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\gametop.csproj.CoreCompileInputs.cache
+E:\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\gametop.dll
+E:\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\gametop.pdb
+E:\ConsoleCore\gametop\obj\Debug\netcoreapp3.1\gametop.genruntimeconfig.cache
